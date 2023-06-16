@@ -1,3 +1,12 @@
+## Images
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+Markdown 技法を利⽤し、動画を⼊れよう。
+## Youtube Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SfauWd_Y9qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 # マークダウンで書いたページ
 ⼈⽣は、⽣きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、⼈の役に⽴てれば最⾼!
 ## 中野信⼦⽒「⽣きてるだけで丸儲け」は⽣物学的にも正しい
